@@ -9,7 +9,6 @@ public class TwoSum {
                     res[1]=j;
                     return res;
                 }
-
         return null;
     }
 
